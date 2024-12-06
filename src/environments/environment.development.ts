@@ -1,5 +1,6 @@
 export const environment = {
-  baseURL:'https://localhost:7016/api',
-  baseuRL: 'https://localhost:7016/api',
-  url:"https://localhost:7028"
+  baseURL:'https://walapi.runasp.net/api',
+  baseuRL: 'https://walapi.runasp.net/api',
+  // url:"https://localhost:7028"
+  url:"https://walmartdashboard.runasp.net"
 };
